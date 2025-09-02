@@ -138,7 +138,7 @@ li a:hover {
 }
 
 .graph-description {
-    color: rgb(168, 167, 167);
+    color: rgb(193, 193, 193);
     font-size: 15px;
     margin-top: 20px;
 }
@@ -186,7 +186,7 @@ li a:hover {
     background-image:  linear-gradient(to top, rgba(0,0,0,0.7), rgba(0,0,0,0)),
     url("./images/fossil.jpg");
     height: 500px;
-    background-position: right;
+    background-position: center;
 }
 
 .effects-card {
@@ -209,17 +209,38 @@ li a:hover {
 }
 
 .card-text {
-    margin: 450px 100px 0px 0px;
+    margin-top: 450px;
     text-align: center;
     color: whitesmoke;
     font-weight: 600;
 }
 
 .footer {
-    margin-top: 50px;
-    background-color: lightskyblue;
+  background-color: #111;    
+  color: whitesmoke;               
+  padding: 30px 20px;
+  text-align: center;
+  font-family: "Montserrat";
+  margin-top: 50px;
 }
 
-.footer-text {
-    margin-left: 30px;
+.site-footer .footer-content {
+  max-width: 1000px;
+  margin: 0 auto;
 }
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #4cafef;            
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
