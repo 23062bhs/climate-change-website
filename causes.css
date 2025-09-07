@@ -102,3 +102,279 @@ li a:hover {
 .greenhouse-effect-image {
     margin-top: 50px;
 }
+
+.causes-info {
+    font-weight: 400;
+    margin-top: 50px;
+    font-size: 17px;
+}
+
+.greenhouse-effect-title {
+    margin-top: 50px;
+    text-align: left;
+    font-size: 35px;
+}
+
+.greenhouse-effect-info {
+    font-weight: 400;
+    margin-top: 50px;
+    font-size: 17px;
+}
+
+.more-info {
+    font-weight: 400;
+    font-size: 17px;
+    margin-top: 17px;
+}
+
+.major-gasses {
+    padding: 5px 0px 60px 0px;
+    font-family: "Montserrat";
+    background-color: rgb(31, 31, 31);
+    margin-top: 50px;
+}
+
+.major-gasses-title {
+    color: whitesmoke;
+    margin: 50px 0px 50px 50px;
+    font-size: 2rem;
+}
+
+.carbon-dioxide {
+    display: flex;
+    align-items: center;
+    border-top: 1px solid whitesmoke;
+    margin: 0px 450px 0px 50px;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.carbon-dioxide-image img{
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+}
+
+.carbon-dioxide-title {
+    color: whitesmoke;
+    margin: 30px 0px 0px 0px;
+    font-size: 1.5rem;
+}
+
+.carbon-dioxide-info {
+    color: whitesmoke;
+    margin: 30px 0px 50px 0px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.carbon-dioxide-title,
+.carbon-dioxide-info {
+    display: block;       
+}
+
+.carbon-dioxide-text {
+    flex: 1;           
+    margin-left: 3rem;  
+}
+
+.methane {
+    display: flex;
+    align-items: center;
+    margin: 0px 450px 0px 50px;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.methane-image img {
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+}
+
+.methane-title,
+.methane-info {
+    display: block;       
+}
+
+.methane-title {
+    color: whitesmoke;
+    margin: 30px 0px 0px 0px;
+    font-size: 1.5rem;
+}
+
+.methane-info {
+    color: whitesmoke;
+    margin: 30px 0px 50px 0px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.methane-text {
+    flex: 1;      
+    margin-left: 3rem;       
+}
+
+.nitrous-oxide {
+    display: flex;
+    align-items: center;
+    margin: 0px 450px 0px 50px;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.nitrous-oxide-image img {
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+}   
+
+.nitrous-oxide-text {
+    flex: 1;      
+    margin-left: 3rem;       
+}   
+
+.nitrous-oxide-info, 
+.nitrous-oxide-title {
+    display: block;       
+}   
+
+.nitrous-oxide-title{
+    color: whitesmoke;
+    margin: 30px 0px 0px 0px;
+    font-size: 1.5rem;
+}
+
+.nitrous-oxide-info {
+    color: whitesmoke;
+    margin: 30px 0px 50px 0px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.water-vapor{
+    display: flex;
+    align-items: center;
+    margin: 0px 450px 0px 50px;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.water-vapor-image img {
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+}
+
+.water-vapor-text {
+    flex: 1;      
+    margin-left: 3rem;       
+}   
+
+.water-vapor-info, 
+.water-vapor-title {
+    display: block;       
+}
+
+.water-vapor-title{
+    color: whitesmoke;
+    margin: 30px 0px 0px 0px;
+    font-size: 1.5rem;
+}
+
+.water-vapor-info {
+    color: whitesmoke;
+    margin: 30px 0px 50px 0px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.fluorinated-gasses {
+    display: flex;
+    align-items: center;
+    margin: 0px 450px 0px 50px;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.fluorinated-gasses-image img {
+    height: 13rem;
+    width: 13rem;
+    border-radius: 50%;
+}   
+
+.fluorinated-gasses-text {
+    flex: 1;      
+    margin-left: 3rem;       
+}   
+
+.fluorinated-gasses-info, 
+.fluorinated-gasses-title {
+    display: block;       
+}
+
+.fluorinated-gasses-title{
+    color: whitesmoke;
+    margin: 30px 0px 0px 0px;
+    font-size: 1.5rem;
+}
+
+.fluorinated-gasses-info {
+    color: whitesmoke;
+    margin: 30px 0px 50px 0px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.human-activity {
+    padding: 0px 200px 0px 200px;
+    text-align: justify;
+    font-family: "Montserrat";
+    margin-top: 50px;
+}
+
+.human-activity-title {
+    margin-top: 50px;
+    text-align: left;
+    font-size: 1.9rem;
+}
+
+.human-activity-info {
+    font-weight: 400;
+    margin-top: 30px;
+    font-size: 1rem;
+}
+
+.footer {
+  background-color: #111;    
+  color: whitesmoke;               
+  padding: 30px 20px;
+  text-align: center;
+  font-family: "Montserrat";
+  margin-top: 50px;
+}
+
+.footer .footer-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #4cafef;            
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.human-activity-title {
+    margin-bottom: 50px;
+}
+
+.ice-sample-description {
+    color: rgb(193, 193, 193);
+    font-size: 1rem;
+    margin-top: 1.5rem;
+}
