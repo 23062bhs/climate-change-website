@@ -120,7 +120,7 @@ li a:hover {
 }
 
 .future-effects-title {
-    font-size: 3rem;
+    font-size: 2.7rem;
     margin: 2rem 0rem 2rem 2rem;
 }
 
@@ -135,12 +135,12 @@ li a:hover {
 }
 
 .global-temperatures-title {
-    margin-top: 3rem;
-    font-size: 2.5rem;
+    margin-top: 5rem;
+    font-size: 2rem;
 }
 
 .global-temperatures-info {
-    margin: 5rem 2rem 0rem 0rem;
+    margin: 3rem 2rem 0rem 0rem;
     font-size: 1rem;
     font-weight: 400;
 }
@@ -150,13 +150,149 @@ li a:hover {
     margin-left: 3rem;
 }
 
+.rising-sea-levels {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.sea-levels-image img{
+    margin-right: 2rem;
+    height: 27rem;
+    width: 36.5rem;
+    padding-left: 2rem;
+}
+
+.sea-levels-title {
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+
+.sea-levels-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.sea-levels-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
+.extreme-weather {
+    display: flex;
+}
+
+.weather-image img{
+    margin-left: 2rem;
+    height: 27rem;
+    width: 35rem;
+}
+
+.weather-title {
+    margin-top: 5rem;
+    font-size: 1.8rem;
+}
+
+.weather-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.weather-text {
+    flex: 1;           
+    margin-left: 3rem;
+}
+
+.droughts {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.droughts-image img{
+    margin-right: 2rem;
+    height: 27rem;
+    width: 36.5rem;
+    padding-left: 2rem;
+}
+
+.droughts-title {
+    margin-top: 5rem;
+    font-size: 1.8rem;
+}
+
+.droughts-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.droughts-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
+.wildfires {
+    display: flex;
+}
+
+.wildfires-image img{
+    margin-right: 2rem;
+    height: 27rem;
+    width: 35rem;
+    padding-left: 2rem;
+}
+
+.wildfires-title {
+    margin-top: 5rem;
+    font-size: 1.8rem;
+}
+
+.wildfires-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.wildfires-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
+.human-risks {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.risks-image img{
+    margin-right: 2rem;
+    height: 25rem;
+    width: 36.5rem;
+    padding-left: 2rem;
+}
+
+.risks-title {
+    margin-top: 5rem;
+    font-size: 1.8rem;
+}
+
+.risks-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.risks-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
 .footer {
   background-color: #111;    
   color: whitesmoke;               
   padding: 30px 20px;
   text-align: center;
   font-family: "Montserrat";
-  margin-top: 50px;
 }
 
 .footer .footer-content {
@@ -177,14 +313,4 @@ li a:hover {
 
 .footer-links a:hover {
   text-decoration: underline;
-}
-
-.human-activity-title {
-    margin-bottom: 50px;
-}
-
-.ice-sample-description {
-    color: rgb(193, 193, 193);
-    font-size: 1rem;
-    margin-top: 1.5rem;
 }

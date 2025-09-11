@@ -329,9 +329,15 @@ li a:hover {
 }
 
 .human-activity-title {
-    margin-top: 50px;
+    margin: 3rem 0rem 3rem 0rem;
     text-align: left;
     font-size: 1.9rem;
+}
+
+.ice-sample-description {
+    color: rgb(193, 193, 193);
+    font-size: 1rem;
+    margin-top: 1.5rem;
 }
 
 .human-activity-info {
@@ -369,12 +375,3 @@ li a:hover {
   text-decoration: underline;
 }
 
-.human-activity-title {
-    margin-bottom: 50px;
-}
-
-.ice-sample-description {
-    color: rgb(193, 193, 193);
-    font-size: 1rem;
-    margin-top: 1.5rem;
-}
