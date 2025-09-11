@@ -86,3 +86,105 @@ li a:hover {
 .btn-container {
     text-align: center;
 }
+
+.effects {
+    font-family: 'Montserrat';
+    text-align: justify;
+    padding: 0rem 12.5rem 0rem 12.5rem;
+}
+
+.effects-title {
+    font-family: 'Montserrat';
+    text-align: left;
+    margin: 3rem 0rem 3rem 0rem;
+}
+
+.effects-info {
+    margin: 2rem 0rem 0rem 0rem;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.more-info {
+    font-weight: 400;
+    font-size: 1.1rem;
+    margin-top: 1.1rem;
+}
+
+.future-effects {
+    padding: 5px 0px 60px 5px;
+    font-family: 'Montserrat';
+    background-color: rgb(31, 31, 31);
+    color: white;
+    margin-top: 3rem;
+}
+
+.future-effects-title {
+    font-size: 3rem;
+    margin: 2rem 0rem 2rem 2rem;
+}
+
+.rising-global-temperatures {
+    display: flex;
+}
+
+.global-temperatures-image img{
+    margin-left: 2rem;
+    height: 27rem;
+    width: 35rem;
+}
+
+.global-temperatures-title {
+    margin-top: 3rem;
+    font-size: 2.5rem;
+}
+
+.global-temperatures-info {
+    margin: 5rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.global-temperatures-text {
+    flex: 1;           
+    margin-left: 3rem;
+}
+
+.footer {
+  background-color: #111;    
+  color: whitesmoke;               
+  padding: 30px 20px;
+  text-align: center;
+  font-family: "Montserrat";
+  margin-top: 50px;
+}
+
+.footer .footer-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #4cafef;            
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.human-activity-title {
+    margin-bottom: 50px;
+}
+
+.ice-sample-description {
+    color: rgb(193, 193, 193);
+    font-size: 1rem;
+    margin-top: 1.5rem;
+}

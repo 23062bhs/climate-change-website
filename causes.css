@@ -106,7 +106,7 @@ li a:hover {
 .causes-info {
     font-weight: 400;
     margin-top: 50px;
-    font-size: 17px;
+    font-size: 1.1rem;
 }
 
 .greenhouse-effect-title {
@@ -118,12 +118,12 @@ li a:hover {
 .greenhouse-effect-info {
     font-weight: 400;
     margin-top: 50px;
-    font-size: 17px;
+    font-size: 1.1rem;
 }
 
 .more-info {
     font-weight: 400;
-    font-size: 17px;
+    font-size: 1.1rem;
     margin-top: 17px;
 }
 
