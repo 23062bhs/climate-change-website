@@ -86,3 +86,235 @@ li a:hover {
 .btn-container {
     text-align: center;
 }
+
+.fossil-fuels {
+    font-family: 'Montserrat';
+    text-align: justify;
+    padding: 0rem 12.5rem 0rem 12.5rem;
+}
+
+.fuels-title {
+    font-family: 'Montserrat';
+    text-align: left;
+    margin: 3rem 0rem 3rem 0rem;
+}
+
+.fuels-info {
+    margin: 2rem 0rem 0rem 0rem;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.more-info {
+    font-weight: 400;
+    font-size: 1.1rem;
+    margin-top: 1.1rem;
+}
+
+.solutions {
+    padding: 1rem 0rem 3rem 1rem;
+    font-family: 'Montserrat';
+    background-color: rgb(31, 31, 31);
+    color: white;
+    margin-top: 3rem;
+}
+
+.solutions-title {
+    font-family: 'Montserrat';
+    text-align: left;
+    margin: 3rem 0rem 0rem 2rem;
+    font-size: 2.5rem;
+}
+
+.renewable-energy {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.energy-image img{
+    margin-right: 2rem;
+    height: 25rem;
+    width: 36.5rem;
+    padding-left: 2rem;
+}
+
+.energy-title {
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+
+.energy-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.energy-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
+.energy-efficiency {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.efficiency-image img{
+    margin-right: 2rem;
+    height: 25rem;
+    width: 36.5rem;
+    padding-left: 2rem;
+}
+
+.efficiency-title {
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+
+.efficiency-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.efficiency-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
+.reforestation {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.reforestation-image img{
+    margin-right: 2rem;
+    height: 25rem;
+    width: 36.5rem;
+    padding-left: 2rem;
+}
+
+.reforestation-title {
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+
+.reforestation-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.reforestation-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
+.transport {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.transport-image img{
+    margin-right: 2rem;
+    height: 25rem;
+    width: 36.5rem;
+    padding-left: 2rem;
+}
+
+.transport-title {
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+
+.transport-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.transport-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
+.agriculture {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.agriculture-image img{
+    margin-right: 2rem;
+    height: 25rem;
+    width: 36.5rem;
+    padding-left: 2rem;
+}
+
+.agriculture-title {
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+
+.agriculture-info {
+    margin: 3rem 2rem 0rem 0rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.agriculture-text {
+    flex: 1;           
+    margin-left: 2rem;
+}
+
+.future {
+    font-family: 'Montserrat';
+    text-align: justify;
+    padding: 0rem 12.5rem 0rem 12.5rem; 
+}
+
+.future-title {
+    font-family: 'Montserrat';
+    text-align: left;
+    margin: 3rem 0rem 3rem 0rem;  
+}
+
+.future-info {
+    margin: 2rem 0rem 0rem 0rem;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.footer {
+  background-color: #111;    
+  color: whitesmoke;               
+  padding: 30px 20px;
+  text-align: center;
+  font-family: "Montserrat";
+  margin-top: 5rem;
+}
+
+.footer .footer-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #4cafef;            
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
