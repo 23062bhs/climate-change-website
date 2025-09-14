@@ -100,7 +100,7 @@ li a:hover {
 .hero-text {
     font-family: 'Montserrat';
     color: white;
-    font-size: 5rem;
+    font-size: 4rem;
     text-align: center;
     position: absolute; 
     top: 10rem;
@@ -113,8 +113,8 @@ li a:hover {
     text-align: center;
     width: 100%;
     top: 25rem;
-    font-size: 2rem;
-    margin: 0rem 5rem 0rem 5rem;
+    font-size: 1rem;
+    font-weight: 700;
 }
 
 .question {
