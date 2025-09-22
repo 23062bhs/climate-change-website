@@ -43,8 +43,8 @@ li a:hover {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0)),
-    url("./images/glacier.avif");
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0)),
+    url("./images/biking.jpg");
 }
 
 .hero-text {
@@ -53,77 +53,18 @@ li a:hover {
     font-size: 70px;
     text-align: center;
     position: absolute; 
-    top: 170px;
+    top: 150px; 
     width: 100%;
 }
 
 .description {
     font-family: 'Montserrat';
     color: white;
-    text-align: center;
     position: absolute;
-    width: 100%;
-    top: 300px;
-    font-size: 30px;
-}
-
-.btn {
-    font-family: 'Montserrat';
-    background-color: lightskyblue;
-    color: white;
-    padding: 20px 40px;
-    text-decoration: none;
-    font-size: 20px;
-    border-radius: 10px;
-    display: inline-block;
-    margin-top: 400px;
-}
-
-.btn:hover {
-    background-color: #3399FF;
-}
-
-.btn-container {
-    text-align: center;
-}
-
-.hero-image {
-    width: 100%;
-    height: 600px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0)),
-    url("./images/drought.jpg");
-}
-
-.hero-text {
-    font-family: 'Montserrat';
-    color: white;
-    font-size: 3.5rem;
-    text-align: center;
-    position: absolute; 
-    top: 10rem;
-    width: 100%;
-}
-
-.description {
-    font-family: 'Montserrat';
-    color: white;
     text-align: center;
     width: 100%;
-    top: 18rem;
-    font-size: 2rem;
-}
-
-.question {
-    font-family: "Montserrat";
-    top: 28rem;
-    font-size: 2.5rem;
-    position: absolute;
-    color: whitesmoke;
-    text-align: center;
-    width: 100%;
+    top: 400px;
+    font-size: 30px; 
 }
 
 .opening {
@@ -144,7 +85,7 @@ li a:hover {
 }
 
 .actions {
-    padding: 2rem 5rem 2rem 5rem;
+    padding: 2rem 90px 3rem 90px;
     background-color: rgb(31, 31, 31);
     color: whitesmoke;
 }
@@ -159,7 +100,7 @@ li a:hover {
 .actions-grid {
     font-family: "Montserrat";
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* exactly 3 columns */
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, auto); 
     gap: 5rem;
 }
@@ -191,29 +132,29 @@ li a:hover {
 }
 
 .footer {
-  background-color: #111;    
-  color: whitesmoke;               
-  padding: 30px 20px;
-  text-align: center;
-  font-family: "Montserrat";
+    background-color: #111;    
+    color: whitesmoke;             
+    padding: 40px 20px;
+    font-family: "Montserrat";
 }
 
 .footer .footer-content {
-  max-width: 1000px;
-  margin: 0 auto;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: left;
 }
 
-.footer-links {
-  margin-top: 10px;
+.footer-section {
+    margin: 20px 0;
 }
 
-.footer-links a {
-  color: #4cafef;            
-  margin: 0 10px;
-  text-decoration: none;
-  font-weight: 500;
+.footer-section h3 {
+    color: #4cafef;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
 }
 
-.footer-links a:hover {
-  text-decoration: underline;
+.footer-section p {
+    font-size: 0.95rem;
+    line-height: 1.5;
 }
