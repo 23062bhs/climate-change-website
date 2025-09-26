@@ -87,6 +87,10 @@ li a:hover {
     text-align: center;
 }
 
+.nav-links li.active a {
+    background-color: #3399FF;       
+}
+
 .effects {
     font-family: 'Montserrat';
     text-align: justify;

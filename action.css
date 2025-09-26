@@ -67,6 +67,10 @@ li a:hover {
     font-size: 30px; 
 }
 
+.nav-links li.active a {
+    background-color: #3399FF;       
+}
+
 .opening {
     font-family: 'Montserrat';
     text-align: justify;
@@ -124,6 +128,7 @@ li a:hover {
     text-align: center;
     font-size: 2rem;
     margin-bottom: 2rem;
+    font-weight: 400;
 }
 
 .action-card p {
