@@ -191,6 +191,9 @@ li a:hover {
     url("./images/fossil.jpg");
     height: 500px;
     background-position: center;
+    display: flex;             
+    flex-direction: column;   
+    justify-content: flex-end; 
 }
 
 .effects-card {
@@ -200,8 +203,10 @@ li a:hover {
     url("./images/wildfire.jpg");
     height: 500px;
     background-position: right;
+    display: flex;             
+    flex-direction: column;   
+    justify-content: flex-end; 
 }
-
 
 .solutions-card {
     background-repeat: no-repeat;
@@ -210,13 +215,27 @@ li a:hover {
     url("./images/turbine.jpg");
     height: 500px;
     background-position: right;
+    display: flex;             
+    flex-direction: column;   
+    justify-content: flex-end; 
 }
 
 .card-text {
-    margin-top: 450px;
+    margin-bottom: 20px;
     text-align: center;
     color: whitesmoke;
     font-weight: 600;
+}
+
+.three-column a { 
+    display: block;
+    text-decoration: none; 
+}
+
+.three-column a:hover .causes-card,
+.three-column a:hover .effects-card,
+.three-column a:hover .solutions-card {
+    filter: brightness(1.3);
 }
 
 .footer {
