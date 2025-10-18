@@ -328,3 +328,24 @@ li a:hover {
     line-height: 1.5;
 }
 
+/* Back to Top Button */
+#BackToTop {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: lightskyblue;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: "Montserrat";
+    font-size: 16px;
+    display: none;
+    transition: background 0.3s, opacity 0.3s;
+    z-index: 1000;
+}
+
+#BackToTop:hover {
+    background-color: #3399FF;
+}
