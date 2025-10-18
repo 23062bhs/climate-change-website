@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+/* Navigation bar */
 .nav {
     display: flex;
     justify-content: space-between;
@@ -37,6 +38,7 @@ li a:hover {
     background-color: #3194f7;
 }
 
+/* Hero section */
 .hero-image {
     width: 100%;
     height: 600px;
@@ -91,6 +93,7 @@ li a:hover {
     background-color: #3399FF;         
 }
 
+/* Causes section */
 .causes {
     padding: 0px 200px 0px 200px;
     text-align: justify;
@@ -131,6 +134,7 @@ li a:hover {
     margin-top: 17px;
 }
 
+/* Major gasses section */
 .major-gasses {
     padding: 5px 0px 60px 0px;
     font-family: "Montserrat";
@@ -325,6 +329,7 @@ li a:hover {
     font-weight: 400;
 }
 
+/* Human activities section */
 .human-activity {
     padding: 0px 200px 0px 200px;
     text-align: justify;
@@ -350,6 +355,7 @@ li a:hover {
     font-size: 1rem;
 }
 
+/* Carbon footprint calculator */
 .calculator {
     font-family: "Montserrat";
 }
@@ -389,6 +395,7 @@ button:hover {
     margin: 30px 0px 0px 200px;
 }
 
+/* Footer section */
 .footer {
     margin-top: 50px;
     background-color: #111;    

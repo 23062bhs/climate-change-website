@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+/* Navigation bar */
 .nav {
     display: flex;
     justify-content: space-between;
@@ -37,6 +38,7 @@ li a:hover {
     background-color: #3194f7;
 }
 
+/* Hero section */
 .hero-image {
     width: 100%;
     height: 600px;
@@ -71,6 +73,7 @@ li a:hover {
     background-color: #3399FF;       
 }
 
+/* Opening section */
 .opening {
     font-family: 'Montserrat';
     text-align: justify;
@@ -88,6 +91,7 @@ li a:hover {
     font-size: 1.1rem;
 }
 
+/* Actions section */
 .actions {
     padding: 2rem 90px 3rem 90px;
     background-color: rgb(31, 31, 31);
@@ -136,6 +140,7 @@ li a:hover {
     font-size: 1.1rem;
 }
 
+/* Footer */
 .footer {
     background-color: #111;    
     color: whitesmoke;             
