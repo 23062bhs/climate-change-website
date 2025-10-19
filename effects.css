@@ -78,7 +78,7 @@ li a:hover {
     font-size: 20px;
     border-radius: 10px;
     display: inline-block;
-    margin-top: 26rem;
+    margin-top: 25rem;
 }
 
 .btn:hover {
@@ -244,7 +244,7 @@ li a:hover {
 }
 
 .wildfires-image img{
-    margin-right: 2rem;
+    margin-right: 1.5rem;
     height: 27rem;
     width: 35rem;
     padding-left: 2rem;
