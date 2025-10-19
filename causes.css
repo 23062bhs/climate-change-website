@@ -364,7 +364,7 @@ li a:hover {
 
 .calculator-title {
     font-size: 2rem;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .calculator-info {
@@ -427,7 +427,6 @@ button:hover {
 
 /* Footer section */
 .footer {
-    margin-top: 50px;
     background-color: #111;    
     color: whitesmoke;             
     padding: 40px 20px;
